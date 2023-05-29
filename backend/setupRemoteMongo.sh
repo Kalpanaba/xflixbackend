@@ -1,0 +1,1 @@
+import --uri "mongodb+srv://kalpanabammidi:dhaiwik2@xflix-node.umfs7qr.mongodb.net/xflix?retryWrites=true&w=majority" --drop --collection videos --file data/data.json
